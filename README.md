@@ -1,4 +1,4 @@
-# sandbox-the-doggies-challenge
+# the-doggies-explorer
 
 ## Project setup
 ```
