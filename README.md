@@ -1,4 +1,7 @@
-# the-doggies-explorer
+# The Doggies Explorer
+1. Download and install the MetaMask extension for Chrome https://metamask.io/download
+2. Create an account
+
 
 ## Project setup
 ```
